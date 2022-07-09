@@ -1,5 +1,5 @@
 # Reddit-Mass-Mention
-
+- You can get the whole bot on my website: https://socialhack.sellix.io
 
   - Bot uses multiple accounts at the same time
   - Fast Mention
